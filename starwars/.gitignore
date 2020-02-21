@@ -21,3 +21,18 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+1. What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
+It allows you to reuse components of an app to make updating and adding data easy. It also renders alot faster compared to working with the basic dom  
+
+2. What does it mean to think in react?
+Thinking in react is thinking about how  to break an app into smaller components.
+
+3. Describe state.
+state is an object in react that holds information that may change over the components lifecycle.
+
+4. Describe props.
+Props are used to pass data from component to component.
+
+5. What are side effects, and how do you sync effects in a React component to state or prop changes?
+Side affects are things that effect something outside the scope of a function. You use useEffect.
